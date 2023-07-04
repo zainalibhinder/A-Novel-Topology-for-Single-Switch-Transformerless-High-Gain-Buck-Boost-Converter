@@ -9,7 +9,7 @@
 2021a MATLAB Packages required: Simulink
 ```
 
-This is implementation IEEE transactions paper titled[A Novel Structure for Single-Switch Nonisolated
+This is implementation IEEE transactions paper titled [A Novel Structure for Single-Switch Nonisolated
 Transformerless Buck–Boost DC–DC Converter](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7564479&tag=1)
 ## ABOUT THE PROJECT
 
